@@ -20,7 +20,6 @@ public class AC1EJ9POOUNAL {
             System.out.print("Ingrese la condicion (3, 4, 5 o 6): ");
             con = entrada.nextInt();
 
-            // Restamos 2 a la condicion como indica el algoritmo
             con = con - 2;
 
             switch (con) {
